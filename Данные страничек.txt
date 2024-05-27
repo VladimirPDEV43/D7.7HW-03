@@ -1,0 +1,4 @@
+Логин: VladimirAgeev
+Пароль: Red30
+http://127.0.0.1:8000/news/
+http://127.0.0.1:8000/news/1
